@@ -28,6 +28,6 @@ team_name = "Arizona Cardinals"
 favorite_number = 66
 account_balance = 9000.00
 
-puts = "Hello world"
-puts = "I forget how to do puts statements"
-    
+puts "#{name} is a fan of #{team_name}"
+
+puts "#{email} has an account balance of #{account_balance}"
