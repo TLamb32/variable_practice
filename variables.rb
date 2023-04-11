@@ -14,3 +14,9 @@ number_online = 188
 
 account_balance = 3432.00
 amount_due = 1800.00
+
+# Booleans
+
+tuition_paid = true
+away_status = true
+online = false
