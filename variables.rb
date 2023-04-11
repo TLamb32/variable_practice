@@ -20,3 +20,14 @@ amount_due = 1800.00
 tuition_paid = true
 away_status = true
 online = false
+
+# Changes 
+
+tuition_paid = false
+team_name = "Arizona Cardinals"
+favorite_number = 66
+account_balance = 9000.00
+
+puts = "Hello world"
+puts = "I forget how to do puts statements"
+    
